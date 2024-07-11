@@ -88,7 +88,7 @@ publishing {
 
                 licenses {
                     license {
-                        name.set('Apache License 2.0')
+                        name.set('MIT License')
                         url.set('https://github.com/RomanQed/mm4j/blob/main/LICENSE')
                     }
                 }
